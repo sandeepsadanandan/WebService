@@ -1,0 +1,20 @@
+http://<domain path here>/users
+
+
+{
+"type":"user_register",
+"userid":"1",
+"username":"sandeeps",
+"password":"sandy",
+"firstname":"Sandeep",
+"surname":"Sadanandan",
+"gender":"Male",
+"dob":"01-01-1980",
+"mobile":"07504187858",
+"phone":"01478547896",
+"email":"sandeep@admin.com",
+"device_token":"000",
+"device":"web"
+}
+
+
